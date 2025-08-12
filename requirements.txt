@@ -1,0 +1,24 @@
+# CPU-friendly stack (tested on Python 3.11)
+# Use PyPI as default, add the PyTorch CPU wheel index for torch packages.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+scikit-learn==1.5.1
+tqdm==4.66.5
+nltk==3.9.1
+faiss-cpu==1.8.0
+datasets==2.19.0
+evaluate==0.4.2
+sentence-transformers==2.6.1
+transformers==4.41.2
+accelerate==0.31.0
+huggingface_hub==0.23.5
+tokenizers==0.19.1
+safetensors==0.4.3
+
+# PyTorch CPU wheels
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
+torchaudio==2.5.1+cpu
