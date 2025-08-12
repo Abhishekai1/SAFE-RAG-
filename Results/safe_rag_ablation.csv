@@ -1,0 +1,13 @@
+q,variant,answer,entail_p,flagged,entropy_mean
+Who wrote the novel The Metamorphosis?,base,Ibn Tufail.,0.6225606799125671,1,0.1487958166334364
+Who wrote the novel The Metamorphosis?,drop_top1,Ibn Tufail.,0.3002897799015045,1,0.20211156871583727
+Who wrote the novel The Metamorphosis?,random_docs,Richard Widmark,0.12292598932981491,1,1.1937508493661881
+Who wrote the novel The Metamorphosis?,shuffled,Robert Boyle,0.23526856303215027,1,0.1585940718650818
+What is the capital of France?,base,Paris,0.18134590983390808,1,0.5078868865966797
+What is the capital of France?,drop_top1,Strasbourg,0.32964783906936646,1,0.2692132294178009
+What is the capital of France?,random_docs,Paris,0.20819148421287537,1,0.6364762783050537
+What is the capital of France?,shuffled,Boulogne-Billancourt,0.3568178713321686,1,0.13703855276107788
+Which organ pumps blood throughout the human body?,base,the dorsal tube,0.00440135458484292,1,0.3868292144366673
+Which organ pumps blood throughout the human body?,drop_top1,arterioles,0.02076101489365101,1,0.06822133809328079
+Which organ pumps blood throughout the human body?,random_docs,organ,0.006798069458454847,1,1.0544095039367676
+Which organ pumps blood throughout the human body?,shuffled,the dorsal tube,0.003972406033426523,1,0.2782316378184727
